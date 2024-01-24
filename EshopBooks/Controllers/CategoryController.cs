@@ -1,4 +1,5 @@
 ﻿using EshopBooks.Data;
+using EshopBooks.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EshopBooks.Controllers
@@ -12,7 +13,8 @@ namespace EshopBooks.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            List<Category> objCategoryList = _db.Categories.ToList();
+            return View(objCategoryList);
         }
     }
 }
