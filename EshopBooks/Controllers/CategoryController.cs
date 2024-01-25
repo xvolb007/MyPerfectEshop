@@ -20,5 +20,20 @@ namespace EshopBooks.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public IActionResult Create(Category obj )
+        {
+            if (obj.Name == obj.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError("Name", "The display order cant be same as name");
+            }
+            if (ModelState.IsValid)
+            {
+				_db.Categories.Add(obj);
+				_db.SaveChanges();
+				return RedirectToAction("Index", "Category");
+			}
+                return View();
+        }
     }
 }
