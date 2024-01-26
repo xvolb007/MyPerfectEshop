@@ -1,5 +1,5 @@
-﻿using EshopBooks.Data;
-using EshopBooks.Models;
+﻿using Eshop.Models;
+using EshopBooks.Data;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.SqlServer.Query.Internal;
 

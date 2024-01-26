@@ -1,8 +1,8 @@
-using EshopBooks.Models;
+using Eshop.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace EshopBooks.Controllers
+namespace Eshop.DataAccess.Controllers
 {
     public class HomeController : Controller
     {

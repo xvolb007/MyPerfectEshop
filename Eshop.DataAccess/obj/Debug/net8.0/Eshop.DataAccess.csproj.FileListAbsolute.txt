@@ -1,0 +1,17 @@
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfo.cs
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.deps.json
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.runtimeconfig.json
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.dll
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.DataAccess.pdb
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.Models.dll
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\bin\Debug\net8.0\Eshop.Models.pdb
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.CopyComplete
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.dll
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\refint\Eshop.DataAccess.dll
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.pdb
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.genruntimeconfig.cache
+C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\ref\Eshop.DataAccess.dll
