@@ -9,3 +9,14 @@ C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.
 C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\refint\Eshop.Models.dll
 C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.pdb
 C:\Users\user1\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\ref\Eshop.Models.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\bin\Debug\net8.0\Eshop.Models.deps.json
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\bin\Debug\net8.0\Eshop.Models.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\bin\Debug\net8.0\Eshop.Models.pdb
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.AssemblyInfoInputs.cache
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.AssemblyInfo.cs
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.csproj.CoreCompileInputs.cache
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\refint\Eshop.Models.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.pdb
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\ref\Eshop.Models.dll

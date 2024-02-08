@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj": {}
+    "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj": {
+    "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj",
         "projectName": "Eshop.Utility",
-        "projectPath": "C:\\Users\\user1\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\obj\\",
+        "projectPath": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\Eshop.Utility.csproj",
+        "packagesPath": "C:\\Users\\unica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.Utility\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\unica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
