@@ -5,11 +5,11 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EshopBooks", "EshopBooks\EshopBooks.csproj", "{C513BF25-C9F7-45A0-A061-5B803E73D5D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshop.DataAccess", "Eshop.DataAccess\Eshop.DataAccess.csproj", "{D97DE081-0A73-474B-B78C-DD6C849CC596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshop.DataAccess", "Eshop.DataAccess\Eshop.DataAccess.csproj", "{D97DE081-0A73-474B-B78C-DD6C849CC596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshop.Models", "Eshop.Models\Eshop.Models.csproj", "{3D3C6C07-ACB7-4E3D-B23A-18C5D884353E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshop.Models", "Eshop.Models\Eshop.Models.csproj", "{3D3C6C07-ACB7-4E3D-B23A-18C5D884353E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eshop.Utility", "Eshop.Utility\Eshop.Utility.csproj", "{7255E251-F127-47A8-9665-217F99965B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eshop.Utility", "Eshop.Utility\Eshop.Utility.csproj", "{7255E251-F127-47A8-9665-217F99965B01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

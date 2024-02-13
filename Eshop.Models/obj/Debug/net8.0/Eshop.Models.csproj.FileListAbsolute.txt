@@ -20,3 +20,4 @@ C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\refint\Eshop.Models.dll
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.pdb
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\ref\Eshop.Models.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Models\obj\Debug\net8.0\Eshop.Models.csproj.AssemblyReference.cache
