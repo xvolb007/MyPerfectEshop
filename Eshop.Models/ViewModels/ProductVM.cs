@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,8 @@ namespace Eshop.Models.ViewModels
 {
 	public class ProductVM
 	{
-        public IEnumerable<SelectListItem> MyProperty { get; set; }
+		public Product Product { get; set; }
+        //[ValidateNever]
+        public IEnumerable<SelectListItem> CategoryList  { get; set; }
     }
 }
