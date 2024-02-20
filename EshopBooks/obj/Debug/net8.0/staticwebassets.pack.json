@@ -13,8 +13,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\images\\product\\7ee4d943-bffc-4950-8bc5-824952fc8f25.png",
-      "PackagePath": "staticwebassets\\images\\product\\7ee4d943-bffc-4950-8bc5-824952fc8f25.png"
+      "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\images\\product\\7b70bac3-1492-480c-91f5-a90cece6ffcf.png",
+      "PackagePath": "staticwebassets\\images\\product\\7b70bac3-1492-480c-91f5-a90cece6ffcf.png"
+    },
+    {
+      "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\images\\product\\e9ff3345-4744-43ed-9202-8f8c338abc23.png",
+      "PackagePath": "staticwebassets\\images\\product\\e9ff3345-4744-43ed-9202-8f8c338abc23.png"
+    },
+    {
+      "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\images\\product\\eaf3ae96-c8f0-4401-8cfe-fda469b23b11.png",
+      "PackagePath": "staticwebassets\\images\\product\\eaf3ae96-c8f0-4401-8cfe-fda469b23b11.png"
+    },
+    {
+      "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
       "Id": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\js\\site.js",
