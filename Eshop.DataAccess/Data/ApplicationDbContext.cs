@@ -29,9 +29,10 @@ namespace EshopBooks.Data
                     ListPrice = 99,
                     Price = 90,
                     Price50 = 85,
-                    Price100 = 80,
-                    CategoryId =2
-                },
+                    Price100 = 86,
+                    CategoryId =2,
+                    ImageURL = " "
+				},
                 new Product
                 {
                     Id = 2,
@@ -43,7 +44,8 @@ namespace EshopBooks.Data
                     Price = 30,
                     Price50 = 25,
                     Price100 = 20,
-					CategoryId = 2
+					CategoryId = 2,
+					ImageURL = " "
 				},
                 new Product
                 {
@@ -56,7 +58,8 @@ namespace EshopBooks.Data
                     Price = 50,
                     Price50 = 40,
                     Price100 = 35,
-					CategoryId = 2
+					CategoryId = 2,
+					ImageURL = " "
 				},
                 new Product
                 {
@@ -69,7 +72,8 @@ namespace EshopBooks.Data
                     Price = 65,
                     Price50 = 60,
                     Price100 = 55,
-					CategoryId = 2
+					CategoryId = 2,
+					ImageURL = " "
 				},
                 new Product
                 {
@@ -82,7 +86,8 @@ namespace EshopBooks.Data
                     Price = 27,
                     Price50 = 25,
                     Price100 = 20,
-					CategoryId = 3
+					CategoryId = 3,
+					ImageURL = " "
 				},
                 new Product
                 {
@@ -95,7 +100,8 @@ namespace EshopBooks.Data
                     Price = 23,
                     Price50 = 22,
                     Price100 = 20,
-					CategoryId = 4
+					CategoryId = 4,
+					ImageURL = " "
 				}
                 );
         }

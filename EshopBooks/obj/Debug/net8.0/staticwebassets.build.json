@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "3l5F9ia4iSmL6Jh1/lSX3zqMO11JmQ9CIgJ+P03FM10=",
+  "Hash": "FW+yxv6Z9j57qE9v+gnLZ1Xe5fByyrJeRP/pPNi0Enw=",
   "Source": "EshopBooks",
   "BasePath": "_content/EshopBooks",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\images\\product\\7ee4d943-bffc-4950-8bc5-824952fc8f25.png",
+      "SourceId": "EshopBooks",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\",
+      "BasePath": "_content/EshopBooks",
+      "RelativePath": "images/product/7ee4d943-bffc-4950-8bc5-824952fc8f25.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\7ee4d943-bffc-4950-8bc5-824952fc8f25.png"
     },
     {
       "Identity": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\wwwroot\\js\\site.js",
