@@ -12,7 +12,7 @@
 			</a>
 		</div>
 	</div>
-	<table id="tblData" class="table table-bordered table-striped align-items-center">
+	<table @* id="tblData" *@ class="table table-bordered table-striped align-items-center">
 			<thead>
 				<tr>
 					<th scope="col">Title</th>
@@ -23,6 +23,18 @@
 
 				</tr>
 			</thead>
+			<tbody>
+			@foreach(var obj in Model)
+			{
+				<tr>
+					<td>@obj.Title</td>
+					<td>@obj.ISBN</td>
+					<td>@obj.Price</td>
+					<td>@obj.Author</td>
+					<td>@obj.Category.Name</td>
+				</tr>
+			}
+		</tbody>
 			
 		</table>
 </div>
