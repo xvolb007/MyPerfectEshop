@@ -9,3 +9,4 @@ C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Utility\obj\Debug\net8.0\Eshop.Utilit
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Utility\obj\Debug\net8.0\refint\Eshop.Utility.dll
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Utility\obj\Debug\net8.0\Eshop.Utility.pdb
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Utility\obj\Debug\net8.0\ref\Eshop.Utility.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.Utility\obj\Debug\net8.0\Eshop.Utility.sourcelink.json

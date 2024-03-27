@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D97DE081-0A73-474B-B78C-DD6C849CC596}|Eshop.DataAccess\\Eshop.DataAccess.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97DE081-0A73-474B-B78C-DD6C849CC596}|Eshop.DataAccess\\Eshop.DataAccess.csproj|solutionrelative:eshop.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97DE081-0A73-474B-B78C-DD6C849CC596}|Eshop.DataAccess\\Eshop.DataAccess.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshop.dataaccess\\eshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D97DE081-0A73-474B-B78C-DD6C849CC596}|Eshop.DataAccess\\Eshop.DataAccess.csproj|solutionrelative:eshop.dataaccess\\eshop.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshopbooks\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|solutionrelative:eshopbooks\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshopbooks\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|solutionrelative:eshopbooks\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshopbooks\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|solutionrelative:eshopbooks\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshopbooks\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|solutionrelative:eshopbooks\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|c:\\users\\unica\\dropbox\\c#\\eshopbooks\\eshopbooks\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C513BF25-C9F7-45A0-A061-5B803E73D5D7}|EshopBooks\\EshopBooks.csproj|solutionrelative:eshopbooks\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Eshop.DataAccess",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.DataAccess\\Eshop.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Eshop.DataAccess\\Eshop.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.DataAccess\\Eshop.DataAccess.csproj",
+              "RelativeToolTip": "Eshop.DataAccess\\Eshop.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-27T10:39:14.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Eshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\Eshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Eshop.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T09:57:03.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "EshopBooks\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "EshopBooks\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T20:06:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EshopBooks\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EshopBooks\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:02:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EshopBooks\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EshopBooks\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T19:59:28.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "EshopBooks\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "EshopBooks\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAE0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T19:48:23.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EshopBooks\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\unica\\Dropbox\\c#\\EshopBooks\\EshopBooks\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EshopBooks\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAQwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T19:45:52.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

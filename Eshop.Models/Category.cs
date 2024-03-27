@@ -14,5 +14,7 @@ namespace Eshop.Models
         [DisplayName("Display Order")]
         [Range(1, 100, ErrorMessage = "Display Order must be in 1-100 range")]
         public int DisplayOrder { get; set; }
+
+        
     }
 }

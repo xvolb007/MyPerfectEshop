@@ -67,5 +67,7 @@ namespace Eshop.DataAccess.Repository
         {
             dbSet.RemoveRange(entities);
         }
+
     }
+
 }

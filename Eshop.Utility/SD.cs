@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Eshop.Utility
 {
-    internal class SD
+    public static class SD
     {
     }
 }

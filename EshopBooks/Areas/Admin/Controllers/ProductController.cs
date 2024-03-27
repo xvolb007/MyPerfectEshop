@@ -141,14 +141,14 @@ namespace EshopBooks.Areas.Admin.Controllers
 
         public IActionResult DeletePost(int? id)
         {
-            Category? obj = _unitOfWork.Category.GetFirstOrDefault(u => u.Id == id); if (obj == null)
+            Product? obj = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id); if (obj == null)
             {
                 return NotFound();
             }
-            _unitOfWork.Category.Remove(obj);
+            _unitOfWork.Product.Remove(obj);
             _unitOfWork.Save();
             TempData["success"] = "Product deleted successfully";
-            return RedirectToAction("Index", "Category");
+            return RedirectToAction("Index", "Product");
         }
 
 

@@ -12,18 +12,18 @@
 			</a>
 		</div>
 	</div>
-	<table id="tblData"  class="table table-bordered table-striped align-items-center">
+	<table class="table table-bordered table-striped align-items-center">
 			<thead>
 				<tr>
-					<th scope="col">Title</th>
-					<th scope="col">ISBN</th>
-					<th scope="col">Price</th>
+					<th scope="col">title</th>
+					<th scope="col">isbn</th>
+					<th scope="col">price</th>
 					<th scope="col">Author</th>
 					<th scope="col">Category</th>
 
 				</tr>
 			</thead>
-			@* <tbody>
+			<tbody>
 			@foreach(var obj in Model)
 			{
 				<tr>
@@ -32,9 +32,19 @@
 					<td>@obj.Price</td>
 					<td>@obj.Author</td>
 					<td>@obj.Category.Name</td>
+					<td>
+						<div class="btn-group" role="group">
+							<a asp-controller="Product" asp-action="Upsert" asp-route-id="@obj.Id" class="btn btn-primary">
+								<i class="bi bi-pencil-square"></i>Edit
+							</a>
+							<a asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id" class="btn bg-danger text-bg-dark">
+								<i class="bi bi-trash"></i>Delete
+							</a>
+						</div>
+					</td>
 				</tr>
 			}
-		</tbody> *@
+		</tbody>
 			
 		</table>
 </div>

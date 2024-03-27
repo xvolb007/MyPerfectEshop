@@ -26,9 +26,10 @@ C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.Dat
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfoInputs.cache
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.AssemblyInfo.cs
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.CoreCompileInputs.cache
-C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.csproj.CopyComplete
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.dll
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\refint\Eshop.DataAccess.dll
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.pdb
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.genruntimeconfig.cache
 C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\ref\Eshop.DataAccess.dll
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.DataAccess.sourcelink.json
+C:\Users\unica\Dropbox\c#\EshopBooks\Eshop.DataAccess\obj\Debug\net8.0\Eshop.Da.E39AB3F2.Up2Date
